@@ -1,6 +1,6 @@
 I am an editor at Shanghai-based news website [Sixth Tone](https://www.sixthtone.com), one of the few English-language news organisations focused on China.
 
-For nearly a decade, I have worked with over 100 scholars globally, translating academic research into accessible knowledge. My own writings and editorial collaborations have informed the World Economic Forum, Nature, EY, and other public and private institutions.
+For nearly a decade, I have been tracking China-related research in the humanities and social sciences, working with over 100 scholars globally to translate academic language into accessible knowledge. My own writings and editorial collaborations have informed the World Economic Forum, Nature, EY, and other public and private institutions.
 
 Born in China, I never stop learning about my country and its interaction with the world, especially in East Asia. I am also interested in how individually rational decisions — financial, technological, and political — shape the collective trajectory of society.
 
@@ -11,6 +11,8 @@ My personal interests fall broadly across Go (a Chinese board game that inspired
 [Write to me](mailto:yineng.cai@outlook.com) to discuss the future of the humanities, AI, ethnography for market research, and why Edward Said is still relevant in 2026.<br><br><br>
 
 ## **Selected Works**
+
+[When China’s Star Intellectuals Fly Too Close to the Sun (2026)](https://www.sixthtone.com/news/1018996)<br>I analysed how the "influencer" model offloads the burden of cultural industries onto individuals, incentivising plagiarism, sensationalism, and credential inflation while devaluing genuine intellectual labour.
 
 [How Inherited Time Impacts the Lives of Young Chinese (2025)](https://www.sixthtone.com/news/1017810)<br>I interviewed sociologist Cora Lingling Xu on one of the most powerful yet overlooked engines of inequality inheritance: time.
 
@@ -38,6 +40,8 @@ My personal interests fall broadly across Go (a Chinese board game that inspired
 
 [Shifting Fortunes in a ‘Taobao Village’](https://www.sixthtone.com/news/1011332)
 
+[In China’s Tech Industry, Success Is All About ‘Cognition’](https://www.sixthtone.com/news/1018320)
+
 [He Wrote the Book on Rural China. But First, He Wrote a Novel.](https://www.sixthtone.com/news/1013099)<br><br>
 
 ### China in the World
@@ -49,6 +53,8 @@ My personal interests fall broadly across Go (a Chinese board game that inspired
 [How Korea Quietly Reshaped Chinese Pop Culture](https://www.sixthtone.com/news/1013330)
 
 [Documenting Life Inside a ‘China-Africa Factory’](https://www.sixthtone.com/news/1010480)
+
+[How I Brought China’s Vibe-Coding Revolution to Rural America](https://www.sixthtone.com/news/1019015)
 
 [Remembering the Chinese Women Who Danced for the World](https://www.sixthtone.com/news/1007447)<br><br>
 
@@ -74,7 +80,7 @@ My personal interests fall broadly across Go (a Chinese board game that inspired
 
 [The Fonts That Made China’s Digital Revolution Possible](https://www.sixthtone.com/news/1009626)<br><br>
 
-### Technology × Culture
+### Technology
 
 [What a Buzzword Reveals About Chinese Tech’s Urban Bias](https://www.sixthtone.com/news/1010263)
 
@@ -86,7 +92,9 @@ My personal interests fall broadly across Go (a Chinese board game that inspired
 
 [The Promise and Pitfalls of China’s AI Sign Language Interpreters](https://www.sixthtone.com/news/1017316)<br><br>
 
-### City
+### City × Culture
+
+[What Happens When Chinese Dreamcore Meets the Real World?](https://www.sixthtone.com/news/1018914)
 
 [Looking Back at a Mascot of Future Optimism](https://www.sixthtone.com/news/1017728)
 
